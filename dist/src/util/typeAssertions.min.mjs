@@ -1,0 +1,2 @@
+const t=t=>!!t&&void 0!==t.toLive,e=t=>!!t&&"function"==typeof t.toObject,o=t=>!!t&&void 0!==t.offsetX&&Object.hasOwn(t,"source"),n=t=>!!t&&"function"==typeof t._renderText,c=t=>!!t&&"function"==typeof t._renderPathCommands,i=t=>!!t&&Object.hasOwn(t,"multiSelectionStacking");export{i as isActiveSelection,t as isFiller,c as isPath,o as isPattern,e as isSerializableFiller,n as isTextObject};
+//# sourceMappingURL=typeAssertions.min.mjs.map

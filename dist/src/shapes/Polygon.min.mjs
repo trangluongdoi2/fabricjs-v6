@@ -1,0 +1,2 @@
+import{defineProperty as e,objectSpread2 as s}from"../../_virtual/_rollupPluginBabelHelpers.min.mjs";import{classRegistry as t}from"../ClassRegistry.min.mjs";import{Polyline as r,polylineDefaultValues as l}from"./Polyline.min.mjs";class o extends r{static getDefaults(){return s(s({},super.getDefaults()),r.ownDefaults)}isOpen(){return!1}}e(o,"ownDefaults",l),e(o,"type","Polygon"),t.setClass(o),t.setSVGClass(o);export{o as Polygon};
+//# sourceMappingURL=Polygon.min.mjs.map
